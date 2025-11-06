@@ -1,4 +1,3 @@
-<?php require 'data/configxhxh1.php';?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -533,3 +532,4 @@
 
 </body>
 </html>
+
